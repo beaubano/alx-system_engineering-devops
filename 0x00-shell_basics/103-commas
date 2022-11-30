@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -adm ./103-commas
+ls -a ./103-commas
+ls -m ./103-commas
+ls -d ./103-commas
