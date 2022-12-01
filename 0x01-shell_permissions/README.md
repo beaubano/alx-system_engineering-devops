@@ -1,1 +1,1 @@
-shell permision
+my first readme directories
